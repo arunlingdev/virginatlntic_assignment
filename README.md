@@ -14,7 +14,7 @@ yarn -v
 Download the package to your computer and navigate to the application files.
 
 ```sh
-git clone https://bitbucket.iilg.com/projects/mvwweb/repos/mvw-waitlist-admin-ui/browse
+git clone https://github.com/arunlingdev/virginatlntic_assignmen
 cd virginatlntic_assignment
 ```
 
